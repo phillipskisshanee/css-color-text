@@ -8,8 +8,8 @@ body {
 }
 
 div {
-  width: 380px;
+  width: 400px;
   border: 2px solid gray;
-  padding: 10px;
+  padding: 25px;
   margin: 10px;
 }
