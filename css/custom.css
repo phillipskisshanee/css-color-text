@@ -2,3 +2,13 @@
   box-sizing: border-box; }
 
 /*insert custom css below*/
+
+body { 
+  background-color:#cccccc;
+}
+
+#box {
+  border: 25px;
+  padding: 25px;
+  margin: 10px;
+}
