@@ -16,6 +16,7 @@ div {
 
 a:link {
     color: #000000;
+    text-decoration: none;
 }
 
 a:hover {
