@@ -19,8 +19,8 @@ h1 small{
 }
 
 div {
-  width: 500px;
-  border: 2px solid gray;
+  width: 400px;
+  border: 2px solid #8c8c8c;
   padding: 25px;
   margin: 20px;
 }
