@@ -13,3 +13,11 @@ div {
   padding: 25px;
   margin: 10px;
 }
+
+a:link {
+    color: #000000;
+}
+
+a:hover {
+    color: hotpink;
+}
