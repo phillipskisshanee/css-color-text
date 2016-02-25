@@ -28,3 +28,7 @@ a:link {
 a:hover {
     color: hotpink;
 }
+
+footer {
+  margin: 20px;
+}
