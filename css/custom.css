@@ -13,6 +13,10 @@ h1 {
   margin: 20px;
 }
 
+h1 small{ 
+  color: #333;
+  font-size: .6em;
+}
 
 div {
   width: 500px;
